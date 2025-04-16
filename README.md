@@ -11,7 +11,7 @@ Una interfaz gráfica basada en terminal para [tgpt](https://github.com/aandrew-
 
 ## Instalación de TGPT
 
-### En GNU/Linux o macOS
+### En GNU/Linux o MacOS
 ```bash
 curl -sSL https://raw.githubusercontent.com/aandrew-me/tgpt/main/install | bash -s /usr/local/bin
 ```
