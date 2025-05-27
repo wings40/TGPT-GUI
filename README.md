@@ -134,6 +134,8 @@ TGPT GUI es una interfaz que simplifica el uso de tgpt, pero todas las consultas
 
 Para más información sobre tgpt, visita el [repositorio oficial](https://github.com/aandrew-me/tgpt).
 
+English version [Click Here](https://github.com/wings40/TGPT-GUI/blob/main/README_english.md)
+
 ---
 
 ¡Disfruta utilizando TGPT GUI para acceder al poder de la inteligencia artificial directamente desde tu terminal!
