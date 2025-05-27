@@ -25,9 +25,9 @@ For more installation methods, visit the [official tgpt repository](https://gith
 
 ## TGPT GUI Installation
 
-1. Download the `tgpt-gui.sh` script
-2. Give it execution permissions: `chmod +x tgpt-gui.sh`
-3. Run it: `./tgpt-gui.sh`
+1. Download the `tgpt-gui-en.sh` script
+2. Give it execution permissions: `chmod +x tgpt-gui-en.sh`
+3. Run it: `./tgpt-gui-en.sh`
 
 ## User Manual
 
