@@ -1,4 +1,6 @@
 # Que es TGPT
+**Read this in other languages:** [English](README.en.md)
+
 Tgpt es una herramienta de interfaz de línea de comandos (CLI) multiplataforma que te permite usar un chatbot de IA en tu Terminal sin necesidad de claves API.
 # TGPT GUI
 
@@ -134,7 +136,7 @@ TGPT GUI es una interfaz que simplifica el uso de tgpt, pero todas las consultas
 
 Para más información sobre tgpt, visita el [repositorio oficial](https://github.com/aandrew-me/tgpt).
 
-English version [Click Here](https://github.com/wings40/TGPT-GUI/blob/main/README.en.md)
+English version [Click Here](README.en.md)
 
 ---
 
